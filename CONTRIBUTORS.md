@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Athalla1337
+ - Place: Bandung, Indonesia
+ - Bio: Software engineer. Cyber Security.
+ - GitHub: [Athalla1337](https://github.com/Athalla1337)
